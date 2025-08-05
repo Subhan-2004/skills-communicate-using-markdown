@@ -16,6 +16,8 @@
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
+###### This is an `<h6>` header, which is the smallest
+
 </header>
 
 <!--
